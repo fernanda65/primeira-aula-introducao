@@ -1,0 +1,55 @@
+body {
+    background: rgb(218, 193, 207);
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+    
+
+#title {
+    color: blue;
+    font-size: 40px;
+    text-transform: capitalize;
+    
+
+}
+a {
+    text-decoration: line-through;
+    color: #505050
+    ;
+}
+
+#de-cima {
+    
+    width: 100px;
+    height: 100px;
+    padding-left: 15px;
+}
+
+.de-baixo {
+    width: 300px;
+    border: 1px solid black;
+}
+
+.post {
+    background: white;
+padding: 20px;
+border: 3px solid #505050;
+margin: 10px;
+border-radius: 5px;
+}
+.post_content {
+  margin: 0;  
+  margin-bottom: 15px;
+    
+}
+
+.contacts_list {
+   list-style-type: none; 
+   padding-left: 15px;
+}
+.contacts_list li a {
+ text-decoration: none;
+
+
+}
